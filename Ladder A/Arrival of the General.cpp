@@ -28,7 +28,7 @@ output
 time limit per test2 seconds
 memory limit per test256 megabytes
 inputstandard input
-outputstandard output */
+outputstandard output. */
 
 //Approach: We will find maximum and minimum element and their idexes while taking input. we have to bring maximum idexed element to the first index that is towards
 // minimum indices and the minimum indexed element to the last index that is towards the larger indexes. So if minimum indexed element comes before maximum indexed element
